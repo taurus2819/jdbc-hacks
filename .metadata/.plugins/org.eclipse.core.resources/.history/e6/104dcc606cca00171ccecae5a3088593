@@ -1,0 +1,31 @@
+package com.lynda.javatraining.db;
+
+import java.sql.Connection;
+import java.sql.DatabaseMetaData;
+
+import com.lynda.javatraining.db.beans.Admin;
+import com.lynda.javatraining.db.tables.AdminManager;
+import com.lynda.javatraining.util.InputHelper;
+
+public class TablesList {
+
+	private static Admin bean = null;
+	private static boolean result = false;
+	private static int adminId;
+
+	public static void main(String[] args) throws Exception {
+		
+		Connection conn = ConnectionManager.getInstance().getConnection();	
+		
+		try {
+			DatabaseMetaData metadata = conn.getMetaData();
+			String[] tableTypes = {"TABLES"};
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+		ConnectionManager.getInstance().close();
+	}
+}
+

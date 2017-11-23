@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lynda.javatraining.db.Main&apos; to &apos;MultiConnectMain&apos;&#x0D;&#x0A;- Original project: &apos;MultiConnect&apos;&#x0D;&#x0A;- Original element: &apos;com.lynda.javatraining.db.Main&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lynda.javatraining.db.MultiConnectMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lynda.javatraining.db{Main.java[Main" matchStrategy="1" name="MultiConnectMain" qualified="false" references="true" similarDeclarations="false" stamp="1508453550482" textual="false" version="1.0"/>
+</session>

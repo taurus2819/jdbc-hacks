@@ -1,0 +1,4 @@
+#Wed Oct 25 12:00:14 NZDT 2017
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=dynamic help

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lynda.javatraining.db.UpdateSQLMain&apos; to &apos;TablesAndColumnsMain&apos;&#x0D;&#x0A;- Original project: &apos;6_2-TablesAndColumns&apos;&#x0D;&#x0A;- Original element: &apos;com.lynda.javatraining.db.UpdateSQLMain&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lynda.javatraining.db.TablesAndColumnsMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UpdateSQLMain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lynda.javatraining.db{UpdateSQLMain.java[UpdateSQLMain" matchStrategy="1" name="TablesAndColumnsMain" qualified="false" references="true" similarDeclarations="false" stamp="1510794605871" textual="false" version="1.0"/>
+</session>
