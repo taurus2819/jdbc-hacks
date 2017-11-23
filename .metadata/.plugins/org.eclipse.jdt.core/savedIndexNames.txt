@@ -19,7 +19,6 @@ INDEX VERSION 1.130+C:\Prashanth\MyProjects\Lynda\Java_JDBC\.metadata\.plugins\o
 900892039.index
 273609628.index
 2288671896.index
-2442418297.index
 3999838746.index
 1424538888.index
 189530877.index
